@@ -1,0 +1,3 @@
+[submodule "ml-nthu-2017-classnote"]
+    path = ml-nthu-2017-classnote
+    url = git@github.com:stevenokm/ml-nthu-2017-classnote.git
